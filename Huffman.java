@@ -1,5 +1,4 @@
-//Full Name: Sandra S Thadathil
-//Student ID: B00939988
+
 
 // This class contains methods to build Huffman tree and to encode and decode the input text.
 
