@@ -1,5 +1,4 @@
-//Full Name: Sandra S Thadathil
-//Student ID: B00939988
+
 
 // This class creates Pair object to store letters and probability
 public class Pair implements Comparable<Pair> {
